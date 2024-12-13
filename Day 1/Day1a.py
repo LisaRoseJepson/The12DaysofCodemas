@@ -1,0 +1,5 @@
+'''
+Print something!
+'''
+
+print("Something!")
